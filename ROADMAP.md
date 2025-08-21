@@ -1,4 +1,4 @@
-Copyright (c) 2025 [Alvaro Cortés Opazo(https://alvarocortes.cl/)]
+Copyright (c) 2025 [Alvaro Cortés Opazo](https://alvarocortes.cl/)
 
 Este material es parte del curso de Python publicado en [https://github.com/alvarocortesdev/python-noob2senior](https://github.com/alvarocortesdev/python-noob2senior).
 Distribuido bajo la licencia CC BY-NC 4.0.

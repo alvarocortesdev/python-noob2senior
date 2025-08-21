@@ -1,11 +1,11 @@
 Copyright (c) 2025 [Alvaro Cortés Opazo]
-
 Este material es parte del curso de Python publicado en [https://github.com/alvarocortesdev/python-noob2senior](https://github.com/alvarocortesdev/python-noob2senior).
 Distribuido bajo la licencia CC BY-NC 4.0.
 Para más detalles, consulta el archivo LICENSE en el repositorio.
+
 ---
 
-# Roadmap Python 2025
+# Roadmap 🐍 Python 2025 🐍
 
 Este roadmap fue generado con el afán de robustecer mis conocimientos y partir desde cero, derribando todo conocimiento y seguridad sobre lo que sabía de Python. La finalidad es re-aprender, desde lo más básico e intentando construir una forma de aprender como me hubiese gustado que me enseñaran en la universidad.
 Este camino está estructurado para llevarte desde los conceptos más básicos hasta los más avanzados, culminando en áreas de especialización. 

@@ -1,4 +1,3 @@
----
 Copyright (c) 2025 [Alvaro Cortés Opazo]
 
 Este material es parte del curso de Python publicado en [https://github.com/alvarocortesdev/python-noob2senior](https://github.com/alvarocortesdev/python-noob2senior).
